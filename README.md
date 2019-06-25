@@ -1,4 +1,4 @@
-digregoriothomas@yahoo.com# HTML Lists
+ HTML Lists
 
 ## Learning Goals
 
